@@ -17,18 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postgraduate student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), jointly advised by Prof. Chuan Shi and Prof. Xiao Wang. 
+I am a postgraduate student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), jointly advised by Prof. [Chuan Shi](http://www.shichuan.org/) and Prof. [Xiao Wang](https://wangxiaocs.github.io/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kdd-ohUAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kdd-ohUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Graph Neural Networks, Large Language Models. 
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Graph Fairness Learning under Distribution shifts 
+- *2024.02*: &nbsp;🎉🎉 One paper accepted by WWW 2024
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [Graph Fairness Learning under Distribution Shifts](https://arxiv.org/pdf/2401.16784)
 
@@ -38,6 +35,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yibo Li**, Xiao Wang, Hongrui Liu, Chuan Shi
 
+[Less is More: on the Over-Globalizing Problem in Graph Transformers](https://arxiv.org/pdf/2405.01102)
+
+Yujie Xing, Xiao Wang, **Yibo Li**, Hai Huang, Chuan Shi
+
+[Space4hgnn: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network](https://arxiv.org/pdf/2202.09177)
+
+Tianyu Zhao, Cheng Yang, **Yibo Li**, Quan Gan, Zhenyi Wang, Fengqi Liang, Huan Zhao, Yingxia Shao, Xiao Wang, Chuan Shi
+
+[Towards adaptive information fusion in graph convolutional networks](https://ieeexplore.ieee.org/abstract/document/10113741)
+
+Meiqi Zhu, Xiao Wang, Chuan Shi, **Yibo Li**, Junping Du
 
 </div>
 </div>
