@@ -47,11 +47,6 @@ Tianyu Zhao, Cheng Yang, **Yibo Li**, Quan Gan, Zhenyi Wang, Fengqi Liang, Huan 
 
 Meiqi Zhu, Xiao Wang, Chuan Shi, **Yibo Li**, Junping Du
 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2020.11* National First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling
 - *2020.11* National Second Prize in the Chinese Mathematics Competitions
