@@ -41,7 +41,7 @@ AAAI 2024
 
 Yujie Xing, Xiao Wang, **Yibo Li**, Hai Huang, Chuan Shi
 
-ICML 2024
+ICML 2024 **Oral**
 
 [Towards adaptive information fusion in graph convolutional networks](https://ieeexplore.ieee.org/abstract/document/10113741)
 
