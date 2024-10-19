@@ -21,7 +21,7 @@ I am a postgraduate student in the School of Computer Science at Beijing Univers
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 One paper accepted by WWW 2024
+- *2024.02*: &nbsp; One paper accepted by WWW 2024
 
 # 📝 Publications 
 
@@ -56,8 +56,6 @@ Tianyu Zhao, Cheng Yang, **Yibo Li**, Quan Gan, Zhenyi Wang, Fengqi Liang, Huan 
 SIGIR 2022
 
 # 🎖 Honors and Awards
-- *2020.11* National First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling
-- *2020.11* National Second Prize in the Chinese Mathematics Competitions
 - *2022.07* Outstanding Graduate Student Award of Beijing
 - *2023.10* The University’s First-Class Scholarship
 
