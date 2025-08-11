@@ -17,13 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postgraduate student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), jointly advised by Prof. [Chuan Shi](http://www.shichuan.org/) and Prof. [Xiao Wang](https://wangxiaocs.github.io/). My research interests include Graph Neural Networks, Large Language Models. 
+I am a PhD candidate in the School of Computing at National University of Singapore (NUS), advised by Prof. [Bryan Hooi](https://bhooi.github.io/). Prior to that, I received my Master's degree at Beijing University of Posts and Telecommunications, jointly advised by Prof. [Chuan Shi](http://www.shichuan.org/) and Prof. [Xiao Wang](https://wangxiaocs.github.io/). My research interests include Graph Neural Networks, Large Language Models. 
 
 
 # 🔥 News
-- *2024.02*: &nbsp; One paper accepted by WWW 2024
+- *2025.05*: &nbsp; One paper accepted by KDD 2025
 
 # 📝 Publications 
+
+
+[AuCoGNN: Enhancing Graph Fairness Learning under Distribution Shifts with Automated Graph Generation](https://ieeexplore.ieee.org/abstract/document/11080132)
+
+Xiao Wang, **Yibo Li**, Yujie Xing, Shaohua Fan, Chuan Shi
+
+TKDE 2025
+
+[Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment](https://arxiv.org/abs/2409.14106)
+
+**Yibo Li**, Yuan Fang, Mengmei Zhang, Chuan Shi
+
+KDD 2025
+
+[Graph foundation models: Concepts, opportunities and challenges](https://smufang.github.io/paper/TPAMI25_GFM.pdf)
+
+Jiawei Liu, Cheng Yang, Zhiyuan Lu, Junze Chen, **Yibo Li**, Mengmei Zhang, Ting Bai, Yuan Fang, Lichao Sun, Philip S. Yu, Chuan Shi
+
+TPAMI 2025
+
 
 [Graph Fairness Learning under Distribution Shifts](https://arxiv.org/pdf/2401.16784)
 
@@ -60,7 +80,8 @@ SIGIR 2022
 - *2023.10* The University’s First-Class Scholarship
 
 # 📖 Educations
-- *2022.09 - now*, Postgraduate in the School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
+- *2025.08 - now*, PhD candidate in School of Computing, National University of Singapore, Singapore
+- *2022.09 - 2025.06*, Postgraduate in the School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 - *2018.09 - 2022.06*, Undergraduate in the School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
 # 💻 Internships
