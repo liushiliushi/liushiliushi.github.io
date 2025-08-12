@@ -22,6 +22,7 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 # 🔥 News
 - *2025.05*: &nbsp; One paper accepted by KDD 2025
+- *2025.05*: &nbsp; One paper accepted by TKDE
 
 # 📝 Publications 
 
