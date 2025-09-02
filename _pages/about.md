@@ -26,6 +26,11 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 # 📝 Publications 
 
+[ConfTuner: Training Large Language Models to Express Their Confidence Verbally](https://arxiv.org/abs/2508.18847)
+
+Yibo Li, Miao Xiong, Jiaying Wu, Bryan Hooi
+
+Preprint
 
 [AuCoGNN: Enhancing Graph Fairness Learning under Distribution Shifts with Automated Graph Generation](https://ieeexplore.ieee.org/abstract/document/11080132)
 
