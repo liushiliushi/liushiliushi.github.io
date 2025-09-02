@@ -28,7 +28,7 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 [ConfTuner: Training Large Language Models to Express Their Confidence Verbally](https://arxiv.org/abs/2508.18847)
 
-Yibo Li, Miao Xiong, Jiaying Wu, Bryan Hooi
+**Yibo Li**, Miao Xiong, Jiaying Wu, Bryan Hooi
 
 Preprint
 
