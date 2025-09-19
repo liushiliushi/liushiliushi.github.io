@@ -21,7 +21,7 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 
 # 🔥 News
-- *2025.09*: &nbsp; Two papers accepted by NeurlPS 2025
+- *2025.09*: &nbsp; Two papers accepted by NeurIPS 2025
 - *2025.05*: &nbsp; One paper accepted by KDD 2025
 
 
