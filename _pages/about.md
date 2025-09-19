@@ -21,8 +21,9 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 
 # 🔥 News
+- *2025.09*: &nbsp; Two papers accepted by NeurlPS 2025
 - *2025.05*: &nbsp; One paper accepted by KDD 2025
-- *2025.05*: &nbsp; One paper accepted by TKDE
+
 
 # 📝 Publications 
 
@@ -30,7 +31,13 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 **Yibo Li**, Miao Xiong, Jiaying Wu, Bryan Hooi
 
-Preprint
+NeurIPS 2025
+
+[MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research](https://arxiv.org/abs/2505.19955)
+
+Hui Chen, Miao Xiong, Yujie Lu, Wei Han, Ailin Deng, Yufei He, Jiaying Wu, **Yibo Li**, Yue Liu, Bryan Hooi
+
+NeurIPS 2025
 
 [AuCoGNN: Enhancing Graph Fairness Learning under Distribution Shifts with Automated Graph Generation](https://ieeexplore.ieee.org/abstract/document/11080132)
 
