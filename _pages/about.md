@@ -25,7 +25,13 @@ I am a PhD candidate in the School of Computing at National University of Singap
 - *2025.05*: &nbsp; One paper accepted by KDD 2025
 
 
-# 📝 Publications 
+# 📝 Publications
+
+[Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](assets/pdf/JitRL14.pdf)
+
+**Yibo Li**, Zijie Lin, Ailin Deng, Xuan Zhang, Yufei He, Shuo Ji, Tri Cao, Bryan Hooi
+
+Preprint
 
 [ConfTuner: Training Large Language Models to Express Their Confidence Verbally](https://arxiv.org/abs/2508.18847)
 
