@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in the School of Computing at National University of Singapore (NUS), advised by Prof. [Bryan Hooi](https://bhooi.github.io/). Prior to that, I received my Master's degree at Beijing University of Posts and Telecommunications, jointly advised by Prof. [Chuan Shi](http://www.shichuan.org/) and Prof. [Xiao Wang](https://wangxiaocs.github.io/). My research interests include Graph Neural Networks, Large Language Models. 
+I am a PhD candidate in the School of Computing at National University of Singapore (NUS), advised by Prof. [Bryan Hooi](https://bhooi.github.io/). Prior to that, I received my Master's degree at Beijing University of Posts and Telecommunications, jointly advised by Prof. [Chuan Shi](http://www.shichuan.org/) and Prof. [Xiao Wang](https://wangxiaocs.github.io/). My research interests include Large Language Models, self-evolving Agents. 
 
 
 # 🔥 News
