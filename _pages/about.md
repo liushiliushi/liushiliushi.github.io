@@ -33,6 +33,12 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 Preprint
 
+[GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video](https://arxiv.org/pdf/2602.03328)
+
+Zhenhao Zhu*, Yue Liu*, Yanpei Guo, Wenjie Qu, Cancan Chen, Yufei He, **Yibo Li**, Yulin Chen, Tianyi Wu, Huiying Xu, Xinzhong Zhu, Jiaheng Zhang
+
+Preprint
+
 [EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems](https://arxiv.org/abs/2510.13220)
 
 Yufei He, Juncheng Liu, Yue Liu, **Yibo Li**, Tri Cao, Zhiyuan Hu, Xinxing Xu, Bryan Hooi
