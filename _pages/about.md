@@ -21,17 +21,23 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 
 # 🔥 News
+- *2026.01*: &nbsp; One paper accepted by ICLR 2026
 - *2025.09*: &nbsp; Two papers accepted by NeurIPS 2025
-- *2025.05*: &nbsp; One paper accepted by KDD 2025
 
 
 # 📝 Publications
 
-[Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](assets/pdf/JitRL14.pdf)
+[Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates](https://www.arxiv.org/abs/2601.18510)
 
 **Yibo Li**, Zijie Lin, Ailin Deng, Xuan Zhang, Yufei He, Shuo Ji, Tri Cao, Bryan Hooi
 
 Preprint
+
+[EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems](https://arxiv.org/abs/2510.13220)
+
+Yufei He, Juncheng Liu, Yue Liu, **Yibo Li**, Tri Cao, Zhiyuan Hu, Xinxing Xu, Bryan Hooi
+
+ICLR 2026
 
 [ConfTuner: Training Large Language Models to Express Their Confidence Verbally](https://arxiv.org/abs/2508.18847)
 
