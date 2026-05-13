@@ -21,8 +21,8 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 
 # 🔥 News
+- *2026.04*: &nbsp; Two accepted by ICML 2026
 - *2026.01*: &nbsp; One paper accepted by ICLR 2026
-- *2025.09*: &nbsp; Two papers accepted by NeurIPS 2025
 
 
 # 📝 Publications
@@ -31,7 +31,7 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 **Yibo Li**, Zijie Lin, Ailin Deng, Xuan Zhang, Yufei He, Shuo Ji, Tri Cao, Bryan Hooi
 
-Preprint
+ICML Spotlight
 
 [GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video](https://arxiv.org/pdf/2602.03328)
 
