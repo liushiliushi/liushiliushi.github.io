@@ -31,11 +31,59 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 **Yibo Li**, Zijie Lin, Ailin Deng, Xuan Zhang, Yufei He, Shuo Ji, Tri Cao, Bryan Hooi
 
-ICML Spotlight
+ICML 2026 <strong style="color:#e74d3c">🌟 Spotlight</strong>
+
+[Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://arxiv.org/abs/2606.06036)
+
+Shuo Ji, **Yibo Li**, Bryan Hooi
+
+ICML 2026
+
+[APEX: Autonomous Policy Exploration for Self-Evolving LLM Agents](https://arxiv.org/abs/2605.21240)
+
+**Yibo Li**, Jiashuo Yang, Zhi Zheng, Zhiyuan Hu, Yuan Sui, Shizun Wang, Yufei He, Bryan Hooi
+
+Preprint
+
+[WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections](https://arxiv.org/abs/2605.15030)
+
+Tri Cao, Yulin Chen, Hieu Cao, **Yibo Li**, Khoi Le, Thong Nguyen, Yuexin Li, Yufei He, Yue Liu, Shuicheng Yan, Bryan Hooi
+
+Preprint
+
+[TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering](https://arxiv.org/abs/2605.05980)
+
+Yuan Sui, Yulin Chen, **Yibo Li**, Xue Jiang, Yufei He, Yihong Dong, Xiaoxin He, Tianyu Gao, Bryan Hooi
+
+Preprint
+
+[WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents](https://arxiv.org/abs/2604.12284)
+
+Yulin Chen, Tri Cao, Haoran Li, Yue Liu, **Yibo Li**, Yufei He, Le Minh Khoi, Yangqiu Song, Shuicheng Yan, Bryan Hooi
+
+Preprint
+
+[Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies](https://arxiv.org/abs/2604.00830)
+
+Zhanzhi Lou, Hui Chen, **Yibo Li**, Qian Wang, Bryan Hooi
+
+Preprint
+
+[Towards Realistic Personalization: Evaluating Long-Horizon Preference Following in Personalized User-LLM Interactions](https://arxiv.org/abs/2603.04191)
+
+Qianyun Guo, **Yibo Li**, Yue Liu, Bryan Hooi
+
+Preprint
 
 [GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video](https://arxiv.org/pdf/2602.03328)
 
 Zhenhao Zhu*, Yue Liu*, Yanpei Guo, Wenjie Qu, Cancan Chen, Yufei He, **Yibo Li**, Yulin Chen, Tianyi Wu, Huiying Xu, Xinzhong Zhu, Jiaheng Zhang
+
+Preprint
+
+[EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning](https://arxiv.org/abs/2601.22964)
+
+Yufei He, Juncheng Liu, Zhiyuan Hu, Yulin Chen, Yue Liu, Yuan Sui, **Yibo Li**, Nuo Chen, Jun Hu, Bryan Hooi, Xinxing Xu, Jiang Bian
 
 Preprint
 
@@ -92,7 +140,7 @@ AAAI 2024
 
 Yujie Xing, Xiao Wang, **Yibo Li**, Hai Huang, Chuan Shi
 
-ICML 2024 **Oral**
+ICML 2024 <strong style="color:#e74d3c">🗣️ Oral</strong>
 
 [Towards adaptive information fusion in graph convolutional networks](https://ieeexplore.ieee.org/abstract/document/10113741)
 
