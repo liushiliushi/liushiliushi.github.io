@@ -31,7 +31,7 @@ I am a PhD candidate in the School of Computing at National University of Singap
 
 **Yibo Li**, Zijie Lin, Ailin Deng, Xuan Zhang, Yufei He, Shuo Ji, Tri Cao, Bryan Hooi
 
-ICML 2026 <strong style="color:#e74d3c">🌟 Spotlight</strong>
+ICML 2026 <strong style="color:#e74d3c">🌟 Spotlight (Top 2.2%)</strong>
 
 [Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://arxiv.org/abs/2606.06036)
 
